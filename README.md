@@ -46,11 +46,11 @@ La aplicación estará disponible en http://localhost:5173.
 
 ## Estructura del Proyecto 
 Plaintext
-src/
+```src/
  ├── components/   # Componentes reutilizables (Navbar)
  ├── pages/        # Vistas principales (Home, MovieDetail, SearchResults)
  ├── services/     # Lógica de conexión con la API (fetch)
  ├── App.jsx       # Configuración de rutas
  └── main.jsx      # Punto de entrada de React
-
+```
 Desarrollado por: Luis Enrique Q.
